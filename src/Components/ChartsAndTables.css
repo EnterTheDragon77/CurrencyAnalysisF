@@ -1,0 +1,56 @@
+.From{
+    height:35px;
+    border-radius: 6px;
+    border: 0.1px solid rgba(0,0,0,0.2);
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.2))
+}
+.To{
+    height:35px;
+    border-radius: 6px;
+    border: 0.1px solid rgba(0,0,0,0.2);
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.2))
+}
+.lab{
+    color:black;
+    font-size:15px;
+    font:bold;
+    padding-left: 0%;
+}
+.tab{
+    border-radius:5px;
+    background: white;
+    border: 0.1px solid rgba(0,0,0,0.2);
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.2))
+}
+.line{
+    border-radius:5px;
+    background: white;
+    border: 0.1px solid rgba(0,0,0,0.2);
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.2))
+}
+.bar{
+    border-radius:5px;
+    background: white;
+    border: 0.1px solid rgba(0,0,0,0.2);
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.2))
+}
+.tab:hover{
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.3))
+}
+.line:hover{
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.3))
+}
+.bar:hover{
+    filter: drop-shadow(0px 0px 10px rgba(0,0,0,0.3))
+}
+.bgChart{
+    background:white;
+    height:850px;
+    margin-top:3%;
+    border-radius:8px
+}
+.textDiv{
+    margin-top:-25px;
+    margin-left:1px;
+}
+
