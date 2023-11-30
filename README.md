@@ -1,4 +1,4 @@
-# CurrencyAnalysisF
+# Currency Exchange Analysis
 **3.1 Description** 
  
  This website’s main aim is to provide the user with live currency exchange values 
